@@ -1,0 +1,11 @@
+{
+    "name": "ayanami",
+    "description": "test my nft!",
+    "image": "https://ipfs.io/ipfs/QmTZMCsQVWLUFazkvqfL3enLceFR2roN9ku63i7RCmLnhT?filename=ayanami.jpg",
+    "attributes": [
+        {
+            "trait_type": "godness",
+            "value": 100
+        }
+    ]
+}
